@@ -1,3 +1,4 @@
+{ // for crating block scope. onno file a ekei name function declare korle jeno error na dei tai.
 // Function
 // 1. Normal function  2. Arrow function
 
@@ -29,3 +30,5 @@ const arr : number[] = [1,4,10];
 
 const newArray :number[] = arr.map((elem:number):number => elem*elem);
 
+
+} // for block scope
